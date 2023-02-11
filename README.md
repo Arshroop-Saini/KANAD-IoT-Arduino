@@ -11,20 +11,6 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 
 - In this project, I present a website in which the following applications are implemented; Crop recommendation, Fertilizer recommendation and Plant disease prediction, respectively. 
 
-- ### Crop recommendation system
-
-![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
-
-- ### Fertilizer suggestion system
-
-![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
-
-
-- ### Disease Detection system
-![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
-
-
-
 ## Contribute 👨‍💻
 Please read [CONTRIBUTING.md](https://github.com/Gladiator07/Harvestify/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
